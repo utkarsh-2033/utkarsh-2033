@@ -2,7 +2,7 @@
 🌟 **Passionate Developer | Aspiring Software Engineer | Problem-Solver**  
 
 ## 🚀 About Me  
-- 🎓 Currently 2nd year **B.Tech Computer Science Engineering** student at JSSATE,Noida.  
+- 🎓 Currently 3rd year **B.Tech Computer Science Engineering** student at JSSATE,Noida.  
 - 💻 Exploring **full-stack web development** & **DSA**  
 
 ---
