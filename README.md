@@ -20,7 +20,7 @@
 
 - 🎓 Final-year **B.Tech CSE** student at JSSATE Noida.
 - 💻 **Full-Stack & Backend Engineer** building production-oriented applications with Java, Spring Boot, React, Next.js and Exprsess.js.
-- 🤖 Building **GenAI applications and RAG systems** using **Langraph , Spring AI, LLMs, RAG**.
+- 🤖 Building **GenAI applications and RAG systems** using **Lanchain , Spring AI, LLMs, RAG**.
 - 🚀 Experienced with real-world product development through software engineering internships.
 - 📈 Engineered core product features at a product startup serving **5,000+ DAU**.
 
