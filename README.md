@@ -3,7 +3,7 @@
 <p align="center"> <em>Final Year B.Tech CSE · Full-Stack & Backend Engineer · GenAI Developer</em> </p>
 
 <p align="center">
-  <a href="https://portfolio-xi-fawn-35.vercel.app/">
+  <a href="https://personalportfolio-eight-lemon.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/utkarsh-kr-gupta-myprofile/">
@@ -77,7 +77,7 @@
 ## 📌 Let's Connect
 
 <p align="center">
-  <a href="https://portfolio-xi-fawn-35.vercel.app/">
+  <a href="https://personalportfolio-eight-lemon.vercel.app/">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/utkarsh-kr-gupta-myprofile/">
